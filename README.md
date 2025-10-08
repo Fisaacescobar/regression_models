@@ -1,4 +1,4 @@
-Regresiones (lineal simple, múltiple y polinomial)
+## Regresiones (lineal simple, múltiple y polinomial)
 
 Este módulo muestra cómo entrenar y evaluar:
 - **Lineal simple** (y ~ X1)
